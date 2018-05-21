@@ -12,7 +12,7 @@
 
     <modules>
         <module>zxq-netty</module>
-        <module>zxq-netty</module>
+        <module>zxq-hibernate</module>
         <module>zxq-netty</module>
 
     </modules>

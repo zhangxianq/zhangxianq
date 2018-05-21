@@ -32,7 +32,7 @@ import org.apache.zookeeper.data.Id;
 
 /**
  * curator管理zookeeper的相关方法工具类
- * @author songqinghu
+ * @author
  * 要点:
  * 1.连接的建立  (两种 OK--使用权限方式)
  * 2.节点的管理操作,增删改查--层叠节点的操作(OK --设立命名空间)
